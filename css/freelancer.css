@@ -420,3 +420,11 @@ a:focus, a:hover, a:active {
   padding-right: 15%;
   padding-left: 15%;
 }
+
+.titulo{
+  text-shadow: black 0.1rem 0.1rem 0.1rem;
+}
+
+.titulo2{
+  text-shadow: white 0.1rem 0.1rem 0.1rem;
+}
