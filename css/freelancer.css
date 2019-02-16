@@ -415,3 +415,8 @@ a:focus, a:hover, a:active {
 .texto{
   text-align: justify; 
 }
+
+.paragrafo{
+  padding-right: 15%;
+  padding-left: 15%;
+}
