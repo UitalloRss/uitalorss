@@ -1,10 +1,5 @@
-/*!
- * Template do site baseado no template Start Bootstrap - Freelancer v5.0.2 (https://startbootstrap.com/template-overviews/freelancer)
- * Licensed (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
- */
-
 body {
-  font-family: 'Lato';
+  font-family: 'Nunito';
 }
 
 .col-md-3 {
@@ -29,7 +24,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat';
+  font-family: 'poppins';
 }
 
 hr.star-light,
