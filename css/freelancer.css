@@ -7,6 +7,15 @@ body {
   font-family: 'Lato';
 }
 
+.col-md-3 {
+  position: relative;
+  width: 50%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+
+
 h1,
 h2,
 h3,
